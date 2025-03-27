@@ -1,0 +1,8 @@
+2025-03-27 21:28:39,443 - WARNING - High CPU usage alert: 85.20% exceeds threshold of 80%
+2025-03-27 21:28:39,896 - WARNING - Anomaly detected in system metrics - CPU Usage: 85.20%, Memory Usage: 61.40%
+2025-03-27 21:28:41,430 - WARNING - No suspicious processes identified.
+2025-03-27 21:28:46,875 - INFO - CPU usage returned to normal: 70.00%
+2025-03-27 21:29:53,648 - WARNING - High CPU usage alert: 86.60% exceeds threshold of 80%
+2025-03-27 21:29:59,317 - INFO - CPU usage returned to normal: 52.50%
+2025-03-27 21:35:01,650 - WARNING - Anomaly detected in system metrics - CPU Usage: 47.70%, Memory Usage: 51.10%
+2025-03-27 21:35:02,614 - WARNING - No suspicious processes identified.
